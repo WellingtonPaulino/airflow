@@ -1,3 +1,5 @@
 
 -- teste codigo vscode github
-select * from 
+select * from tabela1 
+union all 
+select * from tabela2
